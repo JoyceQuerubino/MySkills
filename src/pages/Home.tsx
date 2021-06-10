@@ -30,6 +30,12 @@ export function Home(){
     setMySkills(oldSkill => [...oldSkill, data]) //o estado antigo (antigas skills) recebe o estado antigo + o newSkill
   }
 
+  function handleRemoveSkill(id: string){
+    setMySkills(oldSkill => oldSkill.filter(
+      skill => skill.id !== id
+    ));
+  }
+
   useEffect(() => {
     const currentHour = new Date().getHours(); 
 
@@ -70,7 +76,10 @@ export function Home(){
         data={mySkills}
         keyExtractor={item => item.id}
         renderItem={({ item }) => (
-          <SkillCard skill={item.name}/>  
+          <SkillCard 
+            skill={item.name}
+            onPress={() => handleRemoveSkill(item.id)}
+          />  
         )}
         showsVerticalScrollIndicator={false}
       />
