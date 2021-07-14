@@ -6,7 +6,7 @@
       <img alt="Felipe Martins" src="https://img.shields.io/badge/-Joyce Querubino-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/K-Schaeffer/NLW-2?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JoyceQuerubino/MySkills?color=774DD6">
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </p>
