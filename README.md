@@ -30,13 +30,10 @@ A aplicação tem como objetivo listar os conhecimentos que o usuário possuí.P
 ---
 ## Preview
 
-<h1 align="center">
-   <img src="/github/Proffy-Web.gif" alt="Executando o App" />
-</h1>
+![vdeo1](https://user-images.githubusercontent.com/66806696/126082269-ddc607f7-045d-449b-8e41-ee0da6070798.gif)
 
-<h1 align="center">
-   <img src="/github/Proffy-Mobile.gif" alt="Template do funcionamento" />
-</h1>
+## Telas
+![completo-2](https://user-images.githubusercontent.com/66806696/126082782-c51ae7e3-2be7-47fc-9805-f27ba980a1f0.png)
 
 
 <!--Running session-->
