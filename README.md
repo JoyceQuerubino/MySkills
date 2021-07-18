@@ -28,11 +28,11 @@ O projeto foi desenvolvido durante o módulo 1 do curso Ignite de React-Native d
 A aplicação tem como objetivo listar os conhecimentos que o usuário possuí.Para isso, basta digitar uma descrição da skill e então clicar em adicionar. 
 
 ---
-## Preview
+## 🎬 Preview
 
 ![vdeo1](https://user-images.githubusercontent.com/66806696/126082269-ddc607f7-045d-449b-8e41-ee0da6070798.gif)
 
-## Telas
+## 🎨 Telas
 ![completo-2](https://user-images.githubusercontent.com/66806696/126082782-c51ae7e3-2be7-47fc-9805-f27ba980a1f0.png)
 
 
