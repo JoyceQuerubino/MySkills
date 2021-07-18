@@ -25,7 +25,7 @@
 
 O projeto foi desenvolvido durante o módulo 1 do curso Ignite de React-Native da [Rocketseat](https://rocketseat.com.br/). Nesse módulo foram estudados os conceitos básicos e iniciais de componentização, propriedades, estados, hooks, imutabilidade, estilização com StyleSheet e a utilização de Typescript. 
 
-A aplicação tem como objetivo listar os conhecimentos que o usuário possuí.Para isso, basta digitar uma descrição da skill e então clicar em adicionar. 
+A aplicação tem como objetivo listar os conhecimentos que o usuário possuí. Para isso, basta digitar uma descrição da skill e então clicar em adicionar. 
 
 ---
 ## 🎬 Preview
